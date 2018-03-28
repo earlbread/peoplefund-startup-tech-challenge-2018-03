@@ -417,9 +417,6 @@ def fibonacci(n):
     return fibonacci(n-1) + fibonacci(n-2)
 ```
 
-아주 간단한 피보나치 함수
-이 함수의 문제점은 반복되는 코드가 많아서 너무 느림.
-
 --
 
 ```python
@@ -607,10 +604,6 @@ with open('my_output.txt', 'w') as f:
         print('This is output')
 ```
 
-요런게 있음. contextlib 를 보세요.
-설명하기 복잡해서 안하지만 ExitStack 이라는 애도 유용함.
-굵직한 내용은 여기까지.
-
 ---
 
 ## if - else (Switch simulation)
@@ -758,8 +751,6 @@ STATIC_ROOT = BASE_DIR / 'dist' / 'static'
 ```python
 '{name} {age}'.format(name=name, age=age)
 ```
-
-요즘엔 이런식. 좀더 explicit 해지고 타입 지정을 할필요 없다는게 좋지만 너무 김.
 
 --
 
