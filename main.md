@@ -5,7 +5,7 @@ class: center, middle
 
 이승훈
 
-https://github.com/earlbread/peoplefund-startup-tech-challenge
+https://earlbread.github.io/peoplefund-startup-tech-challenge-2018-03/
 
 ---
 
