@@ -684,7 +684,6 @@ my_very_big_string = (
     "that I had not even time to say “I’m going to sleep."
 )
 
-파이썬에서는 괄호안에서 개행이 무시되므로 아래같이 쓸 수 있다.
 ```
 
 ---
